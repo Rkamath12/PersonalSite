@@ -21,7 +21,9 @@
     color:#f5cd6e rgb(245,205,110);
     color:#4b4c47 rgb(75,76,71);
 /* || General styles */
-body { ... }
+body {
+  background-image: linear-gradient(45deg,#0F2027,#203A43,#2C5364);
+}
 
 h1, h2, h3, h4 { ... }
 
