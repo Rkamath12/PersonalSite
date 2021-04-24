@@ -46,10 +46,14 @@
 
 /* || General styles */
 body {
+  font-family: 'neuronregular', sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+  font-style: normal;
 }
 
 h1{
-  font-family: 'neuronregular',Arial, sans-serif;
+  font-family: 'neuronregular', sans-serif;
   font-size: 50px;
   font-weight: normal;
   font-style: normal;
