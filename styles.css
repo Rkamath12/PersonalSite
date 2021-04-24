@@ -7,7 +7,19 @@
   margin: 0;
   box-sizing: border-box;
 }
+/* Site Colors 1 */
+  color:#a02040	rgb(160,32,64);
+  color:#b34c66	rgb(179,76,102);
+  color:#d9a5b2	rgb(217,165,178);
+  color:#ecd2d8	rgb(236,210,216);
+  color:#f5e8eb	rgb(245,232,235);
 
+  /* Site Colors 2 */
+    color:#571826 rgb(87,24,38);
+    color:#ec3c3c rgb(236,60,60);
+    color:#f4733f rgb(244,115,63);
+    color:#f5cd6e rgb(245,205,110);
+    color:#4b4c47 rgb(75,76,71);
 /* || General styles */
 body { ... }
 
