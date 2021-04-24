@@ -36,4 +36,8 @@ blockquote { ... }
     src: url("D:\PersonalSite\Fonts\Neuron 400.otf");
 }
 
+.neuron{
+  font-family: Neuron;
+}
+
 /* || Header and Main Navigation */
