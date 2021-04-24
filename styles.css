@@ -31,6 +31,9 @@ ul { ... }
 blockquote { ... }
 
 /* || Typography */
-
+@font-face {
+    font-family: "Neuron";
+    src: url("D:\PersonalSite\Fonts\Neuron 400.otf");
+}
 
 /* || Header and Main Navigation */
