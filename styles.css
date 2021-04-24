@@ -36,6 +36,12 @@ blockquote { ... }
     src: url("D:\PersonalSite\Fonts\Neuron 400.otf");
     font-weight: 400;
 }
+@font-face {
+    font-family: "Neuron";
+    src: url("D:\PersonalSite\Fonts\Neuron Italic 400.otf");
+    font-weight: 400;
+    font-style: italic;
+}
 
 .neuron{
   font-family: Neuron;
