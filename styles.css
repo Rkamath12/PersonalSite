@@ -20,9 +20,37 @@
     color:#f4733f rgb(244,115,63);
     color:#f5cd6e rgb(245,205,110);
     color:#4b4c47 rgb(75,76,71);
+
+/* || Typography */
+
+@font-face {
+    font-family: 'neuronregular';
+    src: url('neuron_400-webfont.woff2') format('woff2'),
+         url('neuron_400-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'neuronitalic';
+    src: url('neuron_italic_400-webfont.woff2') format('woff2'),
+         url('neuron_italic_400-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 /* || General styles */
 body {
-  font-family:'Neuron',sans-serif;
+}
+
+h1{
+  font-family: 'Neuron',sans-serif;
+  font-size: 50px;
 }
 
 h1, h2, h3, h4 {
@@ -31,23 +59,5 @@ h1, h2, h3, h4 {
 ul { ... }
 
 blockquote { ... }
-
-/* || Typography */
-@font-face {
-    font-family: 'Neuron';
-    src: url("Neuron 400.otf") format('opentype');
-    font-weight: 400;
-
-}
-@font-face {
-    font-family: 'Neuron';
-    src: url("Neuron Italic 400.otf") format('opentype');
-    font-weight: 400;
-    font-style: italic;
-}
-
-.neuron{
-  font-family: Neuron;
-}
 
 /* || Header and Main Navigation */
