@@ -22,21 +22,20 @@
     color:#4b4c47 rgb(75,76,71);
 
 /* || Typography */
-
 @font-face {
-    font-family: 'neuronregular';
-    src: url('Fonts/neuron_400-webfont.woff2') format('woff2'),
-         url('Fonts/neuron_400-webfont.woff') format('woff');
-    font-weight: normal;
+    font-family: 'neuron';
+    src: url("./Fonts/neuron_400-webfont.woff2") format('woff2'),
+         url("./Fonts/neuron_400-webfont.woff") format('woff');
+    font-weight: 400;
     font-style: normal;
 
 }
 
 @font-face {
     font-family: 'neuronitalic';
-    src: url('Fonts/neuron_italic_400-webfont.woff2') format('woff2'),
-         url('Fonts/neuron_italic_400-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url("./Fonts/neuron_italic_400-webfont.woff") format('woff2'),
+         url("./Fonts/neuron_italic_400-webfont.woff") format('woff');
+    font-weight: 400;
     font-style: italic;
 
 }
@@ -46,10 +45,8 @@ body {
 }
 
 h1{
-  font-family: 'neuronregular', sans-serif;
-  font-size: 20px;
-  font-weight: normal;
-  font-style: normal;
+  font-family:'neuron';
+  font-size: 40px;
 }
 
 h1, h2, h3, h4 {
