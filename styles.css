@@ -25,36 +25,29 @@
 
 @font-face {
     font-family: 'neuronregular';
-    src: url('neuron_400-webfont.woff2') format('woff2'),
-         url('neuron_400-webfont.woff') format('woff');
+    src: url('Fonts/neuron_400-webfont.woff2') format('woff2'),
+         url('Fonts/neuron_400-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 
-
-
-
 @font-face {
     font-family: 'neuronitalic';
-    src: url('neuron_italic_400-webfont.woff2') format('woff2'),
-         url('neuron_italic_400-webfont.woff') format('woff');
+    src: url('Fonts/neuron_italic_400-webfont.woff2') format('woff2'),
+         url('Fonts/neuron_italic_400-webfont.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
 
 }
 
 /* || General styles */
 body {
-  font-family: 'neuronregular', sans-serif;
-  font-size: 50px;
-  font-weight: normal;
-  font-style: normal;
 }
 
 h1{
   font-family: 'neuronregular', sans-serif;
-  font-size: 50px;
+  font-size: 20px;
   font-weight: normal;
   font-style: normal;
 }
