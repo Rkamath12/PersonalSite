@@ -22,10 +22,11 @@
     color:#4b4c47 rgb(75,76,71);
 /* || General styles */
 body {
-  font-family: "Neuron", Helvetica;
 }
 
-h1, h2, h3, h4 { ... }
+h1, h2, h3, h4 {
+  font-family: "Neuron", Helvetica;
+}
 
 ul { ... }
 
