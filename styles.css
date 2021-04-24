@@ -1,5 +1,23 @@
+/* || SITEWIDE */
+
+.logo { ... }
+
 *{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
+
+/* || General styles */
+body { ... }
+
+h1, h2, h3, h4 { ... }
+
+ul { ... }
+
+blockquote { ... }
+
+/* || Typography */
+
+
+/* || Header and Main Navigation */
