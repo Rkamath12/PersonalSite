@@ -35,13 +35,13 @@ blockquote { ... }
 /* || Typography */
 @font-face {
     font-family: 'Neuron';
-    src: url("D:\PersonalSite\Fonts\Neuron 400.otf") format('opentype');
+    src: url("Neuron 400.otf") format('opentype');
     font-weight: 400;
 
 }
 @font-face {
     font-family: 'Neuron';
-    src: url("D:\PersonalSite\Fonts\Neuron Italic 400.otf") format('opentype');
+    src: url("Neuron Italic 400.otf") format('opentype');
     font-weight: 400;
     font-style: italic;
 }
