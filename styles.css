@@ -45,25 +45,71 @@
 
 }
 
+/* MOBILE RESPONSIVE DESIGN
+==============================================================
+16px from left
+Center
+16px from right (both iOS and Android default to 16px side margins for mobile devices)
+
+*/
+
+/* Blur Shadows
+======================================
+/* text-shadow: offset-x | offset-y | blur-radius | color */
+
+
 /* || General styles */
 
 body {
-
+background: linear-gradient(90deg, #a02040, #a22643, #a8344d, #b1465b, #bb5b6d, #c67282, #d08997, #d99fab, #e1b3bd, #e7c3cb, #ebced5, #ecd2d8);
 }
 
 h1{
   font-family:'neuron';
-  font-size: 40px;
-  color:#fff;
+  font-size: 60px;
+  color:#000000;
   padding: 3rem;
+  margin: 4px;
 }
 
 h2{
   font-family:'neuron';
-  font-size: 90px;
+  font-size: 36px;
+  color: #fff;
+  padding-left: 5rem;
+  text-shadow:1px 1px 2px black;
+  margin: 4px;
+
+}
+
+h3{
+  font-family:'neuron';
+  font-size: 29px;
+  color: #fff;
+  padding-left: 5rem;
+  margin: 4px;
+}
+
+h4{
+  font-family:'neuron';
+  font-size: 24px;
   color: #fff;
   padding-left: 5rem;
   line-height: 0.1;
+  margin: 4px;
+}
+
+p{
+  font-family: 'neuron';
+  font-size: 22px;
+  padding-left: 5rem;
+}
+
+p.caption{
+  font-family: 'neuron';
+  font-size: 17px;
+  color:#ec3c3c;
+  padding-left: 5rem;
 }
 
 h1, h2, h3, h4 {
