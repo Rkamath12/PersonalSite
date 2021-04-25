@@ -47,6 +47,16 @@ body {
 h1{
   font-family:'neuron';
   font-size: 40px;
+  color:#fff;
+  padding: 3rem;
+}
+
+h2{
+  font-family:'neuron';
+  font-size: 90px;
+  color: #fff;
+  padding-left: 5rem;
+  line-height: 0.1;
 }
 
 h1, h2, h3, h4 {
