@@ -21,6 +21,11 @@
     color:#f5cd6e rgb(245,205,110);
     color:#4b4c47 rgb(75,76,71);
 
+  /* Dark Background Colors */
+    color:#0F2027;
+    color:#203A43;
+    color:#2C5364;
+
 /* || Typography */
 @font-face {
     font-family: 'neuron';
@@ -41,7 +46,9 @@
 }
 
 /* || General styles */
+
 body {
+
 }
 
 h1{
